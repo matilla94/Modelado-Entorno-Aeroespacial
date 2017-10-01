@@ -6,4 +6,4 @@ El modelo atmosférico combina dos modelos atmosféricos americanos, el "U.S. St
 Por su parte, el campo gravitatorio está desarrollado en función de armónicos esféricos que permiten incluir las perturbaciones del campo debidos al achatamiento terrestre y a la distribucció no uniforme de la masa del planeta.
 
 
-Referencia: "Atmospheric and Space Flight Dynamics" de Tewari. y 
+Referencia: "Atmospheric and Space Flight Dynamics" de Tewari.
